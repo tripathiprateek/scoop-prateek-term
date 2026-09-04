@@ -1,5 +1,5 @@
 {
-    "version": "1.5.0-rc.1",
+    "version": "1.5.0-rc.2",
     "description": "Terminal emulator and SSH/serial connection manager (release candidate)",
     "homepage": "https://github.com/tripathiprateek/prateek-term",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tripathiprateek/prateek-term/releases/download/v1.5.0-rc.1/Prateek-Term-1.5.0-rc.1-x64.zip",
-            "hash": "a4f6037e8053a344d79d18e7b51f318bc751acc25c3078ad7b75e1d44e72a72a"
+            "url": "https://github.com/tripathiprateek/prateek-term/releases/download/v1.5.0-rc.2/Prateek-Term-1.5.0-rc.2-win-x64.zip",
+            "hash": "160e5ac657353987bb999ae491fcc7a523893c03ed0ae08859840c72f88e4d78"
         },
         "arm64": {
-            "url": "https://github.com/tripathiprateek/prateek-term/releases/download/v1.5.0-rc.1/Prateek-Term-1.5.0-rc.1-arm64.zip",
-            "hash": "8332a6281a2d52738c107dbaf64d27d4c763d769b3e9311b05bd36822f4e69f9"
+            "url": "https://github.com/tripathiprateek/prateek-term/releases/download/v1.5.0-rc.2/Prateek-Term-1.5.0-rc.2-win-arm64.zip",
+            "hash": "1bd12dcc1ff198d33357c93ec8bfac3384dd08fb90aaeaf6cce67d4b6bc5628c"
         }
     },
     "bin": "Prateek-Term.exe",
